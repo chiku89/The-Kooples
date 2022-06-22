@@ -4,7 +4,7 @@ Réalisé en 8h.
 
 Je n'ai pas utilisé Vue, j'ai préféré rester sur du HTML/SCSS JS Vanilla pour ce test.
 
-J'ai également préféré éditer directement le Layout.vue, cela me paraissait plus simple pour agir directement sur les <header>, <main> et <footer> de la page.
+J'ai également préféré éditer directement le Layout.vue, cela me paraissait plus simple pour agir directement sur les header, main et footer de la page.
   
 Je vous remercie par avance pour le temps que vous accorderez à mon test.
 
